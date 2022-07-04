@@ -1,0 +1,15 @@
+{
+  "name": "k8s-yaml-parser",
+  "version": "1.0.0",
+  "description": "Script to parse, clean and separate Kubernetes YAML manifests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquin Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
